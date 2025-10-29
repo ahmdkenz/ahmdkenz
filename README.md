@@ -79,7 +79,7 @@ An **interactive financial education platform** built with **Next.js** and **Fir
 ---
 
 #### 💻 2. E-Catalog Mustika Komputer  
-A **modern e-commerce app** for **Mustika Komputer**, featuring interactive product browsing, real-time updates via **Firebase**, and efficient client-side data management using **LocalStorage**.  
+A **modern e-commerce app** for **Mustika Komputer**, featuring interactive product browsing, real-time updates via **Vercel**, and efficient client-side data management using **LocalStorage**.  
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
