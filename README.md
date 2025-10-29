@@ -6,6 +6,12 @@ A **Frontend Developer** with a strong foundation in **IT Support** and **Hardwa
 
 My mission is to deliver **seamless user experiences**, treating every bug not just as a console error, but as a disruption to the user journey. I’m passionate about **shipping clean, efficient, and resilient web applications** that truly enhance usability and engagement.  
 
+<br>
+<a href="hafidz-softdev.me" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="View My Portfolio">
+</a>
+<br>
+
 ---
 
 ### 🧠 Key Expertise  
@@ -45,7 +51,14 @@ My mission is to deliver **seamless user experiences**, treating every bug not j
 
 ### 📊 GitHub Stats  
 
-*(Coming soon... stay tuned!)*  
+<p align="center">
+  <a href="https://github.com/ahmdkenz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="ahmdkenz's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ahmdkenz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical" alt="ahmdkenz's Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -55,7 +68,7 @@ My mission is to deliver **seamless user experiences**, treating every bug not j
 An **interactive financial education platform** built with **Next.js** and **Firebase**, offering adaptive learning modes for young users to improve their financial literacy.  
 
 **Tech Stack:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -70,7 +83,7 @@ A **modern e-commerce app** for **Mustika Komputer**, featuring interactive prod
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Links:**  
 [![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/project-ecommerce)
