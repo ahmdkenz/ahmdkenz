@@ -7,7 +7,7 @@ A **Frontend Developer** with a strong foundation in **IT Support** and **Hardwa
 My mission is to deliver **seamless user experiences**, treating every bug not just as a console error, but as a disruption to the user journey. I’m passionate about **shipping clean, efficient, and resilient web applications** that truly enhance usability and engagement.  
 
 <br>
-<a href="hafidz-softdev.me" target="_blank">
+<a href="https://hafidz-softdev.me" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="View My Portfolio">
 </a>
 <br>
