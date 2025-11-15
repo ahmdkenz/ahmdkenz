@@ -91,6 +91,21 @@ A **modern e-commerce app** for **Mustika Komputer**, featuring interactive prod
 
 ---
 
+#### 🧾 3. POS Mustika Komputer  
+A **Point of Sale (POS) system** built for **Mustika Komputer**, designed to manage sales, stock, service transactions, and audit logs efficiently. Developed using **Laravel**, **Blade**, and **MySQL**, this application provides an intuitive dashboard with real-time sales data and inventory monitoring.
+
+**Tech Stack:**  
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Links:**  
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/project-pos)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
 ### 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nur-hafidz/)
