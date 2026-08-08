@@ -53,10 +53,10 @@ My mission is to deliver **seamless user experiences**, treating every bug not j
 
 <p align="center">
   <a href="https://github.com/ahmdkenz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="ahmdkenz's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical&rank_icon=github&count_private=true&cache_seconds=3600" alt="ahmdkenz's GitHub Stats" />
   </a>
   <a href="https://github.com/ahmdkenz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical" alt="ahmdkenz's Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical&cache_seconds=3600" alt="ahmdkenz's Top Languages" />
   </a>
 </p>
 
