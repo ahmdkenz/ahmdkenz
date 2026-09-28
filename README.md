@@ -10,8 +10,6 @@ To complement my frontend expertise, I am proficient in backend development—ar
 
 As a fast learner and a natural problem-solver, I am highly enthusiastic about continuously growing and contributing to the creation of high-quality web applications.
 
----  
-
 <br>
 <a href="https://portfoliov2-one-pied.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="View My Portfolio">
