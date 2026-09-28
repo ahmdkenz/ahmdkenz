@@ -68,7 +68,49 @@ As a fast learner and a natural problem-solver, I am highly enthusiastic about c
 
 ### 🚀 Featured Projects  
 
-#### 🧾 1. Article Mudamelekfinansial  
+#### 📊 1. Finance, Accounting & Tax System
+A **comprehensive financial management platform** built to streamline general ledger accounting, tax compliance, budgeting, and financial reporting with an intuitive interactive interface.
+
+**Tech Stack:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Links:**  
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/finance-accounting-tax)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+#### 🏭 2. F&B Manufacturing ERP System
+An **enterprise-grade ERP system** designed specifically for F&B manufacturing workflows. Features streamlined production planning, raw material management, inventory tracking, and operational reporting.
+
+**Tech Stack:**  
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Links:**  
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/erp-fnb-manufacture)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+#### 🌐 3. ROSHAN Company Profile & CMS
+A **modern corporate web application** and custom CMS for **ROSHAN**, built to deliver high performance, responsive design, and seamless management of corporate content and landing pages.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Links:**  
+[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/roshan-company-profile)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+#### 🧾 4. Article Mudamelekfinansial  
 An **interactive financial education platform** built with **Next.js** and **Firebase**, offering adaptive learning modes for young users to improve their financial literacy.  
 
 **Tech Stack:**  
@@ -82,7 +124,7 @@ An **interactive financial education platform** built with **Next.js** and **Fir
 
 ---
 
-#### 💻 2. E-Catalog Mustika Komputer  
+#### 💻 5. E-Catalog Mustika Komputer  
 A **modern e-commerce app** for **Mustika Komputer**, featuring interactive product browsing, real-time updates via **Vercel**, and efficient client-side data management using **LocalStorage**.  
 
 **Tech Stack:**  
@@ -95,7 +137,7 @@ A **modern e-commerce app** for **Mustika Komputer**, featuring interactive prod
 
 ---
 
-#### 🧾 3. POS Mustika Komputer  
+#### 🧾 6. POS Mustika Komputer  
 A **Point of Sale (POS) system** built for **Mustika Komputer**, designed to manage sales, stock, service transactions, and audit logs efficiently. Developed using **Laravel**, **Blade**, and **MySQL**, this application provides an intuitive dashboard with real-time sales data and inventory monitoring.
 
 **Tech Stack:**  
@@ -107,6 +149,7 @@ A **Point of Sale (POS) system** built for **Mustika Komputer**, designed to man
 **Links:**  
 [![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/project-pos)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 
 ---
 
