@@ -1,10 +1,16 @@
 # 👋 Hello, I'm Ahmad Nur Hafidz  
 
-### 👨‍💻 Frontend Developer | Performance • Reliability • User Experience  
+### 👨‍💻 Full-Stack Developer | Performance • Reliability • User Experience  
 
-A **Frontend Developer** with a strong foundation in **IT Support** and **Hardware Engineering** — enabling me to build UIs that are not only **beautifully coded**, but also **performant and reliable across devices**.  
+A versatile **Fullstack Developer** with a passion for building comprehensive and engaging digital experiences. 
 
-My mission is to deliver **seamless user experiences**, treating every bug not just as a console error, but as a disruption to the user journey. I’m passionate about **shipping clean, efficient, and resilient web applications** that truly enhance usability and engagement.  
+Equipped with a strong foundation in **HTML, CSS, and JavaScript**, I specialize in translating designs into responsive and functional web interfaces that perform seamlessly across various devices using modern frameworks like **React** and **Vue**. 
+
+To complement my frontend expertise, I am proficient in backend development—architecting robust **REST APIs**, managing database operations, and developing efficient server-side logic. This end-to-end understanding enables me to bridge the gap between user experience and system functionality seamlessly. 
+
+As a fast learner and a natural problem-solver, I am highly enthusiastic about continuously growing and contributing to the creation of high-quality web applications.
+
+---  
 
 <br>
 <a href="https://portfoliov2-one-pied.vercel.app/" target="_blank">
