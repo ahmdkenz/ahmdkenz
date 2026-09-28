@@ -57,12 +57,14 @@ As a fast learner and a natural problem-solver, I am highly enthusiastic about c
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"
     alt="GitHub Stats"
+    height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&hide_border=true&theme=tokyonight"
     alt="Top Languages"
+    height="180"
   />
 </p>
 
