@@ -56,18 +56,14 @@ As a fast learner and a natural problem-solver, I am highly enthusiastic about c
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/ahmdkenz">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical&rank_icon=github&count_private=true"
-      alt="ahmdkenz's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/ahmdkenz">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical"
-      alt="ahmdkenz's Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmdkenz&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdkenz&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
 ---
