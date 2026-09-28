@@ -78,7 +78,7 @@ A **comprehensive financial management platform** built to streamline general le
 
 **Links:**  
 [![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/finance-accounting-tax)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iron.alishabogaprima.com/login?redirect=/)
 
 ---
 
@@ -92,7 +92,7 @@ An **enterprise-grade ERP system** designed specifically for F&B manufacturing w
 
 **Links:**  
 [![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/erp-fnb-manufacture)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shz360.net/)
 
 ---
 
@@ -106,7 +106,7 @@ A **modern corporate web application** and custom CMS for **ROSHAN**, built to d
 
 **Links:**  
 [![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmdkenz/roshan-company-profile)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.roshan.id/)
 
 ---
 
