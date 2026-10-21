@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ahmad Nur Hafidz's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 1729, Total PRs: 0, Total Issues: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 1733, Total PRs: 0, Total Issues: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 209.62625416071612;
+        stroke-dashoffset: 209.59126840347898;
       }
     }
   
